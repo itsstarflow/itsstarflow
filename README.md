@@ -1,13 +1,6 @@
-# Hey
+# Heyo!
 
-I'm StarFlow, a small creator who makes Roblox scripts and GUIs.
-
----
-
-## About Me
-- Focused on Lua / Luau scripting.
-- Create executor-friendly scripts and GUIs.
-- Always experimenting with new Roblox mechanics.
+I'm StarFlow, I'm into LuaU coding.
 
 ---
 
