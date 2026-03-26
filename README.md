@@ -1,4 +1,4 @@
-# Heyo!
+# Hey!
 
 I'm StarFlow, I'm into LuaU coding.
 
