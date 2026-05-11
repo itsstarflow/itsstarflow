@@ -1,3 +1,2 @@
-# Hey there! 👋
-
-I'm StarFlow — a Luau developer focused on creating Roblox scripts.
+# Hey there! 
+I'm StarFlow, a Luau developer focused on creating Roblox scripts.
